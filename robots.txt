@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Satya1998-debug.github.io/sitemap.xml
